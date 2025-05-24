@@ -1,0 +1,996 @@
+[
+  {
+    "id": "fabric_001",
+    "name": "white_circle_kurti_full",
+    "image_main": "images/white_circle_kurti_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "beige",
+      "yellow",
+      "brown"
+    ],
+    "embellishments": [
+      "printed"
+    ],
+    "embellishment_description": "Circular patterns in yellow and brown, and small decorative motifs",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_002",
+    "name": "pink_saree_detail",
+    "image_main": "images/pink_saree_detail.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "pink",
+      "gold"
+    ],
+    "embellishments": [
+      "foil print"
+    ],
+    "embellishment_description": "The fabric features gold foil print designs, including paisley and floral motifs, arranged in vertical and circular patterns. There are ornate zones with dense detailing.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_003",
+    "name": "blue_chudidar_back",
+    "image_main": "images/blue_chudidar_back.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "turquoise"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "There are ornate borders with embroidery work at the sides near the bottom.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_004",
+    "name": "turquoise_chudidar_detail",
+    "image_main": "images/turquoise_chudidar_detail.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "teal",
+      "gold"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Gold floral embroidery is scattered throughout, with an ornate floral border at the bottom.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_005",
+    "name": "cream_kurti_full",
+    "image_main": "images/cream_kurti_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "beige"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Intricate embroidery with floral and geometric patterns; pronounced border at the bottom.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_006",
+    "name": "white_circle_kurti_detail",
+    "image_main": "images/white_circle_kurti_detail.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "off-white",
+      "yellow",
+      "brown",
+      "black"
+    ],
+    "embellishments": [
+      "printed"
+    ],
+    "embellishment_description": "circles and branch-like patterns",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_007",
+    "name": "yellow_kurti_detail",
+    "image_main": "images/yellow_kurti_detail.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "gold",
+      "white",
+      "beige"
+    ],
+    "embellishments": [
+      "mirror work",
+      "embroidery"
+    ],
+    "embellishment_description": "The fabric features small mirrors scattered across a diamond-patterned embroidery. There is an ornate gold and beige embroidered and beaded border at the bottom.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_008",
+    "name": "cream_kurti_back",
+    "image_main": "images/cream_kurti_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "beige"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Subtle embroidery or stitching near the sleeve ends and along the side seams. No ornate zones or borders.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_009",
+    "name": "white_circle_kurti_back",
+    "image_main": "images/white_circle_kurti_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "beige",
+      "yellow",
+      "brown",
+      "black"
+    ],
+    "embellishments": [],
+    "embellishment_description": "None",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_010",
+    "name": "white_pink_grey_anarkali_detail",
+    "image_main": "images/white_pink_grey_anarkali_detail.jpeg",
+    "material": "cotton",
+    "texture": "soft",
+    "colors": [
+      "red",
+      "black",
+      "white"
+    ],
+    "embellishments": [
+      "tassels",
+      "embroidery"
+    ],
+    "embellishment_description": "The fabric has floral embroidery in red and black, tassels at the edges, and a contrasting patterned border at the bottom.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_011",
+    "name": "blue_chudidar_full",
+    "image_main": "images/blue_chudidar_full.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "teal",
+      "gold",
+      "black"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Gold embroidery on the front panel and along the bottom border",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_012",
+    "name": "yellow_lehenga_detail",
+    "image_main": "images/yellow_lehenga_detail.jpeg",
+    "material": "silk and net",
+    "texture": "smooth and sheer",
+    "colors": [
+      "yellow",
+      "pink",
+      "gold"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Gold floral embroidery on yellow silk and pink net",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_013",
+    "name": "pink_anarkali_work",
+    "image_main": "images/pink_anarkali_work.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "red",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "gold embroidery with ornate patterns along the fabric",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_014",
+    "name": "turquoise_chudidar_back",
+    "image_main": "images/turquoise_chudidar_back.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "green"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "There is ornate border embellishment with gold detailing on the sides near the bottom.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_015",
+    "name": "cream_kurti_detail",
+    "image_main": "images/cream_kurti_detail.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "cream",
+      "white"
+    ],
+    "embellishments": [
+      "embroidery",
+      "buttons"
+    ],
+    "embellishment_description": "The fabric features intricate embroidery with floral and geometrical patterns in white thread. There are ornate buttons along the placket.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_016",
+    "name": "turquoise_chudidar_full",
+    "image_main": "images/turquoise_chudidar_full.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "green",
+      "gold"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Gold floral embroidery throughout with a dense ornate border at the bottom.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_017",
+    "name": "turquoise_chudidar_dupatta",
+    "image_main": "images/turquoise_chudidar_dupatta.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "pink",
+      "orange",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Intricate gold embroidery with geometric patterns and motifs, including ornate borders and larger circular designs along the edges.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_018",
+    "name": "gold_dupatta_full",
+    "image_main": "images/gold_dupatta_full.jpeg",
+    "material": "net",
+    "texture": "sheer",
+    "colors": [
+      "gold",
+      "cream"
+    ],
+    "embellishments": [
+      "embroidery",
+      "sequins",
+      "mirror work"
+    ],
+    "embellishment_description": "Floral and ornate embroidery with gold sequins and mirror work throughout, with a cream and gold floral pattern at one end. The dupatta has a decorative border on the sides.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_019",
+    "name": "navy_blue_chudidar_dupatta",
+    "image_main": "images/navy_blue_chudidar_dupatta.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "navy blue",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Floral gold embroidery, decorative border with tassels.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_020",
+    "name": "yellow_lehenga_full",
+    "image_main": "images/yellow_lehenga_full.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "yellow",
+      "pink"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "embroidery with gold thread, floral patterns",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_021",
+    "name": "white_pink_grey_anarkali_back",
+    "image_main": "images/white_pink_grey_anarkali_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "red",
+      "black",
+      "cream"
+    ],
+    "embellishments": [
+      "printed patterns"
+    ],
+    "embellishment_description": "Floral designs on the cream fabric and geometric patterns on the black sections. No borders or ornate zones.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_022",
+    "name": "blue_chudidar_detail",
+    "image_main": "images/blue_chudidar_detail.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "turquoise",
+      "gold",
+      "navy blue"
+    ],
+    "embellishments": [
+      "embroidery",
+      "sequins"
+    ],
+    "embellishment_description": "Gold and turquoise embroidery with floral patterns and sequins. Ornate borders with intricate designs.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_023",
+    "name": "gold_dupatta_detail",
+    "image_main": "images/gold_dupatta_detail.jpeg",
+    "material": "net",
+    "texture": "sheer",
+    "colors": [
+      "white",
+      "gold"
+    ],
+    "embellishments": [
+      "embroidery",
+      "sequins"
+    ],
+    "embellishment_description": "Floral embroidery with gold and white threads, featuring sequins in the center of the flowers. The upper section has white embroidered flowers with sequins, forming a border or ornate zone.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_024",
+    "name": "navy_blue_chudidar_detail",
+    "image_main": "images/navy_blue_chudidar_detail.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "navy blue",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "gold embroidery with floral and geometric patterns",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_025",
+    "name": "white_pink_grey_anarkali_full",
+    "image_main": "images/white_pink_grey_anarkali_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "red",
+      "cream",
+      "black"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Embroidery around the neckline",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_026",
+    "name": "cream_red_chudidar_detail",
+    "image_main": "images/cream_red_chudidar_detail.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "beige",
+      "red"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Red embroidery in ornate patterns on the front. Red piping along the borders.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_027",
+    "name": "orange_kurti_detail",
+    "image_main": "images/orange_kurti_detail.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "orange",
+      "black"
+    ],
+    "embellishments": [
+      "printed patterns"
+    ],
+    "embellishment_description": "The fabric features black printed motifs including geometric shapes and a floral pattern. Borders are present near the top with a geometric design.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_028",
+    "name": "blue_kurti_full",
+    "image_main": "images/blue_kurti_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "navy blue",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Gold geometric embroidery throughout and a more intricate border at one end.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_029",
+    "name": "white_kurti_full",
+    "image_main": "images/white_kurti_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth with slight embroidery",
+    "colors": [
+      "cream"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "embroidered pattern throughout the front",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_030",
+    "name": "cream_red_chudidar_back",
+    "image_main": "images/cream_red_chudidar_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "beige",
+      "red"
+    ],
+    "embellishments": [],
+    "embellishment_description": "The garment has a red border around the edges, but no additional embellishments.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_031",
+    "name": "green_kurti_back",
+    "image_main": "images/green_kurti_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "olive green"
+    ],
+    "embellishments": [],
+    "embellishment_description": "The garment is plain without visible embellishments.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_032",
+    "name": "yellow_kurti_dupatta",
+    "image_main": "images/yellow_kurti_dupatta.jpeg",
+    "material": "net",
+    "texture": "sheer",
+    "colors": [
+      "beige",
+      "gold"
+    ],
+    "embellishments": [
+      "embroidery",
+      "sequins"
+    ],
+    "embellishment_description": "Embroidery and sequins are arranged in floral patterns throughout the dupatta, with a larger ornate motif at one end. There are gold borders along the edges.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_033",
+    "name": "cream_red_chudidar_full",
+    "image_main": "images/cream_red_chudidar_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "beige",
+      "red"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Red embroidered patterns throughout the garment, with red piping along the borders.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_034",
+    "name": "pink_saree_full",
+    "image_main": "images/pink_saree_full.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "pink",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Gold embroidery with paisley patterns and floral motifs. There are also gold borders along the edges.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_035",
+    "name": "white_kurti_back",
+    "image_main": "images/white_kurti_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "white"
+    ],
+    "embellishments": [],
+    "embellishment_description": "No visible embellishments",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_036",
+    "name": "blue_kurti_detail",
+    "image_main": "images/blue_kurti_detail.jpeg",
+    "material": "unknown",
+    "texture": "smooth",
+    "colors": [
+      "blue",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Geometric gold patterns along the border and scattered throughout.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_037",
+    "name": "blue_chudidar_dupatta",
+    "image_main": "images/blue_chudidar_dupatta.jpeg",
+    "material": "net",
+    "texture": "sheer",
+    "colors": [
+      "beige",
+      "blue",
+      "gold",
+      "red",
+      "green",
+      "navy"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Floral embroidery in blue with a vine-like pattern in gold near the border.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_038",
+    "name": "white_floral_kurti_detail",
+    "image_main": "images/white_floral_kurti_detail.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "white",
+      "teal",
+      "brown",
+      "green"
+    ],
+    "embellishments": [],
+    "embellishment_description": "Floral print design. No additional embellishments such as embroidery or sequins.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_039",
+    "name": "green_kurti_full",
+    "image_main": "images/green_kurti_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "olive green"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Button detailing and stitched embellishments on the collar and front.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_040",
+    "name": "white_floral_kurti_sleeve",
+    "image_main": "images/white_floral_kurti_sleeve.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "white",
+      "teal",
+      "brown",
+      "black"
+    ],
+    "embellishments": [
+      "printed pattern"
+    ],
+    "embellishment_description": "Floral print featuring teal and brown flowers with black and brown leaves and stems.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_041",
+    "name": "blue_kurti_back",
+    "image_main": "images/blue_kurti_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "navy blue"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "There is a decorative border at the top with a geometric pattern.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_042",
+    "name": "green_kurti_pants",
+    "image_main": "images/green_kurti_pants.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "embellishments": [],
+    "embellishment_description": "No visible embellishments; features an all-over printed pattern.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_043",
+    "name": "white_floral_kurti_full",
+    "image_main": "images/white_floral_kurti_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "cream",
+      "teal",
+      "brown"
+    ],
+    "embellishments": [
+      "floral print"
+    ],
+    "embellishment_description": "The garment features a floral print with teal and brown flowers scattered throughout.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_044",
+    "name": "pink_anarkali_back",
+    "image_main": "images/pink_anarkali_back.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "red"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "There is gold embroidery near the borders.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_045",
+    "name": "pink_anarkali_full",
+    "image_main": "images/pink_anarkali_full.jpeg",
+    "material": "silk",
+    "texture": "smooth",
+    "colors": [
+      "red",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "gold embroidery with intricate designs at the sides and lower half",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_046",
+    "name": "navy_blue_chudidar_full",
+    "image_main": "images/navy_blue_chudidar_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "navy blue",
+      "gold"
+    ],
+    "embellishments": [
+      "embroidery"
+    ],
+    "embellishment_description": "Gold embroidery on the neckline, sleeves, and along the bottom border.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_047",
+    "name": "yellow_kurti_full",
+    "image_main": "images/yellow_kurti_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "yellow",
+      "gold",
+      "brown"
+    ],
+    "embellishments": [
+      "mirror work",
+      "border"
+    ],
+    "embellishment_description": "The garment features small mirrors scattered throughout and a detailed ornamental border at the hem.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_048",
+    "name": "orange_kurti_full",
+    "image_main": "images/orange_kurti_full.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "rust",
+      "black",
+      "white"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Printed geometric patterns, decorative buttons, and a motif design.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_049",
+    "name": "white_kurti_detail",
+    "image_main": "images/white_kurti_detail.jpeg",
+    "material": "cotton",
+    "texture": "textured",
+    "colors": [
+      "white"
+    ],
+    "embellishments": [
+      "embroidery",
+      "sequins"
+    ],
+    "embellishment_description": "The fabric features detailed white embroidery with swirling patterns, and a vertical strip with shiny sequins near the closure area.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_050",
+    "name": "yellow_kurti_back",
+    "image_main": "images/yellow_kurti_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "yellow"
+    ],
+    "embellishments": [],
+    "embellishment_description": "Plain with no visible embellishments",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_051",
+    "name": "orange_kurti_back",
+    "image_main": "images/orange_kurti_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "brown",
+      "orange"
+    ],
+    "embellishments": [],
+    "embellishment_description": "No visible embellishments or embroidery present.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  },
+  {
+    "id": "fabric_052",
+    "name": "navy_blue_chudidar_back",
+    "image_main": "images/navy_blue_chudidar_back.jpeg",
+    "material": "cotton",
+    "texture": "smooth",
+    "colors": [
+      "navy blue",
+      "gold"
+    ],
+    "embellishments": [
+      "unspecified embellishment"
+    ],
+    "embellishment_description": "Small gold motifs distributed throughout the fabric, no specific borders or ornate zones.",
+    "is_wearable_as_is": "",
+    "size_issue": "",
+    "upcycle_only": true,
+    "notes": ""
+  }
+]
