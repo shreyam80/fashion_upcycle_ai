@@ -22,7 +22,7 @@ def get_mime_type_from_bytes(img_bytes):
     except Exception as e:
         return None
 
-def load_inspiration_images(folder="inspiration"):
+def load_inspiration_images(folder="sample_inputs/inspiration"):
     images = []
     if not os.path.exists(folder):
         print(f"📂 Folder '{folder}' not found. Skipping inspiration loading.")
@@ -56,7 +56,7 @@ def load_fabric_inventory(path="fabric_inventory_normalized.json"):
     with open(path, "r") as f:
         return json.load(f)
     
-def select_fabric_images(inventory, folder="clean_jpegs"):
+def select_fabric_images(inventory, folder="sample_inputs/clean_jpegs"):
     print("🧵 Available fabrics:")
     for item in inventory:
         print(f"- {item['name']}")
@@ -152,7 +152,7 @@ def suggest_designs(selected_name, inspirations, fabric_images, matching_invento
     return response.choices[0].message.content
     
 if __name__ == "__main__":
-    inspiration_images = load_inspiration_images("inspiration")
+    inspiration_images = load_inspiration_images("sample_inputs/inspiration")
     fabric_inventory = load_fabric_inventory("fabric_inventory_normalized.json")
 
     selected_name, fabric_images, matching_inventory = select_fabric_images(fabric_inventory)

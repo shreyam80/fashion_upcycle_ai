@@ -21,13 +21,13 @@ uploaded_files = st.file_uploader(
 
 if uploaded_files:
     for file in uploaded_files:
-        image_path = os.path.join("images", file.name)
+        image_path = os.path.join("sample_inputs/images", file.name)
         with open(image_path, "wb") as f:
             f.write(file.getbuffer())
         st.image(image_path, caption=file.name, use_column_width=True)
 
     if st.button("🔍 Analyze New Fabrics"):
-        results = fabric_loader.process_images_once(folder="images")
+        results = fabric_loader.process_images_once(folder="sample_inputs/images")
         st.success(f"✅ Processed and saved {len(results)} new fabrics.")
 
 # ──────────────────────────────────────────────────────────────
@@ -60,9 +60,9 @@ selected_inventory = grouped_fabrics[selected_base]
 
 # Load all matching images
 fabric_images = []
-for filename in os.listdir("clean_jpegs"):
+for filename in os.listdir("sample_inputs/clean_jpegs"):
     if selected_base in filename:
-        path = os.path.join("clean_jpegs", filename)
+        path = os.path.join("sample_inputs/clean_jpegs", filename)
         with open(path, "rb") as f:
             encoded = f.read()
             fabric_images.append({"name": filename, "base64": encoded})
@@ -76,13 +76,13 @@ st.header("3️⃣ Style Inspirations (Optional)")
 st.markdown("We’ve preloaded some inspiration images. You can upload more if you want to add to them.")
 
 # Load existing inspiration from disk
-inspiration_images = gpt_designer.load_inspiration_images("inspiration")
+inspiration_images = gpt_designer.load_inspiration_images("sample_inputs/inspiration")
 
 # Show existing ones first
 if inspiration_images:
     st.subheader("🖼️ Existing Inspirations")
     for img in inspiration_images:
-        st.image(f"inspiration/{img['name']}", caption=img['name'], width=150)
+        st.image(f"sample_inputs/inspiration/{img['name']}", caption=img['name'], width=150)
 
 # Let user upload more (optional)
 uploaded_inspo = st.file_uploader(
@@ -95,7 +95,7 @@ uploaded_inspo = st.file_uploader(
 if uploaded_inspo:
     st.subheader("➕ New Inspirations You Uploaded")
     for file in uploaded_inspo:
-        path = os.path.join("inspiration", file.name)
+        path = os.path.join("sample_inputs/inspiration", file.name)
         with open(path, "wb") as f:
             f.write(file.getbuffer())
         with open(path, "rb") as img:

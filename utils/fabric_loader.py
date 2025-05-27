@@ -23,9 +23,9 @@ from openai import OpenAI
 # Helps for moving files
 import shutil
 
-WATCH_FOLDER = "images/"
+WATCH_FOLDER = "sample_inputs/images/"
 OUTPUT_JSON = "fabric_inventory.json"
-PROCESSED_FOLDER = "processed_images/"
+PROCESSED_FOLDER = "sample_inpits/processed_images/"
 
 client = OpenAI()
 
@@ -224,11 +224,11 @@ def save_fabric_entry(fabric_data, image_path, output_file="fabric_inventory.jso
         json.dump(inventory, f, indent=2)
 
     # Move the image to processed_images/
-    os.makedirs("processed_images", exist_ok=True)
-    new_path = os.path.join("processed_images", filename)
+    os.makedirs("sample_inputs/processed_images", exist_ok=True)
+    new_path = os.path.join("sample_inputs/processed_images", filename)
     shutil.move(image_path, new_path)
 
-    print(f"✅ Saved {fabric_id} and moved image to processed_images/")
+    print(f"✅ Saved {fabric_id} and moved image to sample_inputs/processed_images/")
 
 def main():
     while True:

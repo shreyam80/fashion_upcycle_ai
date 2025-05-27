@@ -177,4 +177,13 @@ cython_debug/
 .env
 last_suggestions.txt
 dalle_outputs/
+clean_jpegs/
+!sample_inputs/clean_jpegs/
 
+processed_images/
+!sample_inputs/processed_images/
+
+inspiration/
+!sample_inputs/inspiration/
+
+images/
