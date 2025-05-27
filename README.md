@@ -35,25 +35,28 @@ This is a Streamlit-powered AI assistant that helps users **upcycle traditional 
 
 ## Setup Instructions
 
-1. create a .env file with your OpenAI Secret Key
-2. 
 ```bash
-# Clone the repo
+# 1. Clone the repository
 git clone https://github.com/your-username/fashion_ai_project.git
 cd fashion_ai_project
 
-# Create virtual environment
+# 2. Create a virtual environment
 python3 -m venv venv
-source venv/bin/activate  # or .\venv\Scripts\activate on Windows
+source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 
-# Install dependencies
+# 3. Install dependencies
 pip install -r requirements.txt
 
-# Run Streamlit app
-streamlit run app.py
+# 4. Create a .env file in your root and add your OpenAI API key
 
+# 5. Launch the Streamlit app
+streamlit run app.py
 ```
+
+You can add your own images (optional) to your inventory, then select the fabric you would like to use. Finally, you can add additional inspiration pictures (optional) or use the preloaded ones which represent my style (as the solution is made for one user). Then, generate images!
+
 ## Future Improvements
+- Ability to remove inspiration images or clothing from inventory
 - Multi-user session tracking
 - Save multiple designs with tags
 - Custom design editing UI
